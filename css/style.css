@@ -1,0 +1,77 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-image: linear-gradient(#875E14, #D59A2F);
+	background-attachment: fixed;
+	height: 100%;
+}
+
+main {
+	background-color: #071C29;
+	width: 900px;
+}
+
+header{
+	background-color: #071C29;
+	height: 50px;
+	width: 900px;
+}
+
+footer{
+	background-color: #071C29;
+	width: 900px;
+	padding-bottom: 32000px;
+    margin-bottom: -32000px;
+}
+
+#talos_img_header {
+	padding-bottom: 50px;
+
+}
+
+#text00 {
+	font-family: Arial;
+	font-size: 26px;
+	line-height: 28px;
+	color: white;
+}
+
+#text01 {
+	font-family: Arial;
+	font-size: 18px;
+	line-height: 22px;
+	color: white;
+	padding-bottom: 70px;
+}
+
+#text02 {
+	font-family: Arial;
+	font-size: 26px;
+	color: #D59A2F
+}
+
+#text03 {
+	font-family: Arial;
+	font-size: 18px;
+	line-height: 22px;
+	color: white;
+	padding-bottom: 22px;
+}
+
+#talos_img_footer {
+
+	padding-bottom: 18px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+	text-align: center;
+}
